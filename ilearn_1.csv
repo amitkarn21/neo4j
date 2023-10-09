@@ -1,0 +1,31 @@
+POD,Application name,Upstream
+GLA,1GLA,GLPROD
+GLA,MDx GLA,SAP
+GLA,Balances,SAP
+GLA,Balances,GLPROD
+GLA,Balances,PS9
+GLA,DRM Hierarchies,DRM
+GLA,HCIT GLA,PS9
+GLA,AP GLA,GLPROD
+GLA,GEHC GLA,GLPROD
+OSB,OM,GLPROD
+OSB,OM,EOM
+OSB,Finance Order,OM
+OSB,Finance Sales GLA,1GLA
+OSB,Finance Backlog Exploded,OM
+OSB,Finance Backlog Exploded,1GLA
+OSB,OneOSB,Finance Order
+OSB,OneOSB,Finance Sales GLA
+OSB,OneOSB,HCIT GLA
+OSB,OneOSB,1GLA
+OSB,Sales to CM,Finance Order
+OSB,Sales to CM,Finance Sales GLA
+OSB,SPIRIT,Finance Order
+OSB,SPIRIT,Finance Sales GLA
+OSB,SPIRIT,Finance Backlog Exploded
+OSB,Finance Snapshot Backlog,Finance Order
+OSB,Finance Snapshot Backlog,Finance Sales GLA
+OSB,Finance Snapshot Backlog,Finance Backlog Exploded
+OSB,Wave analytics,Finance Order
+OSB,Wave analytics,Finance Sales GLA
+OSB,Wave analytics,Finance Backlog Exploded
